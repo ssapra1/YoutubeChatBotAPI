@@ -106,7 +106,7 @@ def jarvis(data):
 # initialization
 time.sleep(2)
 speak("Hello there, what can I do for you?")
-speaker.Speak("Hi Saksham, what can I do for you?")
+speaker.Speak("Hello , what can I do for you?")
 while 1:
     data = recordAudio()
     jarvis(data)
